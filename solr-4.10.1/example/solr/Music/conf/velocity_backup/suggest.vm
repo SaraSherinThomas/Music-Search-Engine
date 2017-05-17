@@ -1,0 +1,20 @@
+#**
+ *  Provides cynamic spelling suggestions
+ *  as you type in the search form
+ *#
+
+#foreach($t in $response.response.terms.Song)
+  $t.key
+#end
+
+#foreach($t in $response.response.terms.Movie)
+  $t.key
+#end
+
+#foreach($t in $response.response.terms.Singers)
+  $t.key
+#end
+
+#foreach($t in $response.response.terms.Lyrics)
+  $t.key
+#end

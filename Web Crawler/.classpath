@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/IR ASSIGNMENT/Jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/IR ASSIGNMENT/Jars/boilerpipe-1.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/IR ASSIGNMENT/Jars/boilerpipe-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR ASSIGNMENT/Jars/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="E:/IR ASSIGNMENT/Jars/xerces-2_6_2.jar"/>
+	<classpathentry kind="lib" path="E:/IR ASSIGNMENT/Jars/scanner-3.1.0.cr1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/jars/jdom.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/antlr-runtime-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/asm-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/asm-commons-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/concurrentlinkedhashmap-lru-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/hadoop-annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/hadoop-auth-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/hadoop-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/hadoop-hdfs-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/hppc-0.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-analyzers-common-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-analyzers-kuromoji-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-analyzers-phonetic-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-codecs-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-core-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-expressions-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-grouping-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-highlighter-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-join-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-memory-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-misc-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-queries-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-queryparser-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-spatial-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/lucene-suggest-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/noggit-0.5.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/org.restlet.ext.servlet-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/org.restlet-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/solr-core-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/solr-solrj-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/spatial4j-0.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/solr/WebContent/WEB-INF/lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/jars/slf4j-simple-1.7.21.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/jars/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/jars/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/IR_kepler/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/saras/.m2/repository/com/google/api-client/google-api-client/1.22.0/google-api-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saras/.m2/repository/com/google/apis/google-api-services-youtube/v3-rev179-1.22.0/google-api-services-youtube-v3-rev179-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saras/.m2/repository/com/google/apis/google-api-services-youtubeAnalytics/v1-rev63-1.22.0/google-api-services-youtubeAnalytics-v1-rev63-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saras/.m2/repository/com/google/apis/google-api-services-youtubereporting/v1-rev10-1.22.0/google-api-services-youtubereporting-v1-rev10-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saras/.m2/repository/com/google/oauth-client/google-oauth-client/1.22.0/google-oauth-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saras/.m2/repository/com/google/oauth-client/google-oauth-client-jetty/1.20.0/google-oauth-client-jetty-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saras/.m2/repository/com/google/oauth-client/google-oauth-client-java6/1.20.0/google-oauth-client-java6-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saras/.m2/repository/com/google/http-client/google-http-client/1.20.0/google-http-client-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saras/.m2/repository/com/google/http-client/google-http-client-jackson2/1.20.0/google-http-client-jackson2-1.20.0.jar"/>
+	<classpathentry kind="src" path="/samples"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

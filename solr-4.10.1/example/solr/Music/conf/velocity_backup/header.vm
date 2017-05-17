@@ -1,0 +1,15 @@
+#**
+ *  Render the top section of the page visible to users
+ *#
+
+<div id="head">
+  <span><center style="height:180; background-color:#FB8521; background-image: url(https://thumb7.shutterstock.com/display_pic_with_logo/801670/177324491/stock-photo-music-vintage-business-card-piano-keyboard-on-black-and-red-velvet-background-and-horizontal-177324491.jpg)"><a href="#url_for_home#if($request.params.get('debugQuery'))?debugQuery=true#end"></a></center></span>
+<span>
+<strong><center><h1 style="color: #43a4b1; font-family: 'Rouge Script', cursive; font-size: 50px; font-weight: normal; line-height: 48px; margin: 0 0 50px; text-align: center; text-shadow: 1px 1px 2px #082b34;">Music Search Engine</h1></center></strong>
+#if($page.current_page_number==1)
+	
+  		#parse("top10.vm")
+	
+#end
+</span>
+</div>

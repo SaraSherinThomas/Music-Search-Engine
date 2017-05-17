@@ -1,0 +1,21 @@
+#**
+ *  Render the main Results List
+ *#
+
+## Usually displayed inside <div class="results">
+
+#if($response.response.get('grouped'))
+
+  #foreach($grouping in $response.response.get('grouped'))
+    #parse("hit_grouped.vm")
+  #end
+
+#else
+  #foreach($doc in $response.results)
+	#set($Integer = 0)
+	#if($Integer.parseInt($doc.getFieldValue('id'))>11)
+		#parse("hit.vm")
+	#end
+  #end
+
+#end

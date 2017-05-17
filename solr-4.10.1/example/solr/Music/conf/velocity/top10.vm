@@ -1,0 +1,25 @@
+
+
+
+#set($count=0)
+<table align="center"><tr>
+#foreach($doc in $response.results)
+	## Title
+	
+	#if($doc.getFieldValue('topTitle'))
+		
+		#if($count==0)
+		<div id="head" align="center"><h1 style="color: #db0d25; font-family: cursive; font-size: 25px; font-weight: normal;   text-align: center; ">Latest Releases</h1></div>
+		#end
+		#set($count=$count+1)
+		#set($toptitle[$count] = $esc.html($doc.getFirstValue('topTitle')))
+		#set($topurl[$count] = $doc.getFieldValue('topUrl'))
+		#set($topImage[$count] = $esc.html($doc.getFirstValue('topImage')))
+		#set($count=$count+1)
+		<td><a href="$doc.getFieldValue('topUrl')" target="_blank"><img src="#field('topImage')"/></a></td>
+		
+	#end
+	
+#end
+</tr></table>
+
